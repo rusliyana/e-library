@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
     <title>
-        <?= $title; ?>
+        E-Library
     </title>
 
     <!-- Custom fonts for this template-->

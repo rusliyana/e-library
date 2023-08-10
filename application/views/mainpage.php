@@ -2,12 +2,13 @@
 <html>
     <head> 
         <title> E-LIBRARY</title>
-        <link rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="style.css">
     </head>
 <body>
     <header>
-        <div class="main">
-            <div class=""><img crs="pic1"></div>
+        <div class="banner">
+            <div class="navbar">
+                <img crs=""></div>
             <ul>
                 <li class="active"><a href="#">home</a></li>
                 <li><a href="#">login</a></li>
